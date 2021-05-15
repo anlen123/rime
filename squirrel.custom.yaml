@@ -6,7 +6,6 @@ patch:
 
   # 皮肤主题 
   preset_color_schemes:
-  
     macos_light:
       author: "一方<liuour@gmail.com>"
       back_color: 0xFFFFFF                      # 候选条背景色，24位色值，16进制，BGR顺序
