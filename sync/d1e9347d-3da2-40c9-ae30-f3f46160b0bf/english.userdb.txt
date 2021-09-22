@@ -1,0 +1,59 @@
+# Rime user dictionary
+#@/db_name	english
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	197
+#@/user_id	d1e9347d-3da2-40c9-ae30-f3f46160b0bf
+ACTH 	ACTH	c=7 d=3.757 t=197
+Booth 	Booth	c=4 d=2.00693 t=197
+CARE 	CARE	c=1 d=0.697676 t=197
+Esau 	Esau	c=1 d=0.418951 t=197
+GATT 	GATT	c=1 d=0.447088 t=197
+Hahn 	Hahn	c=1 d=0.421052 t=197
+Idun 	Idun	c=4 d=2.28691 t=197
+Java 	Java	c=25 d=12.5072 t=197
+Kafka 	Kafka	c=3 d=1.37905 t=197
+Labe 	Labe	c=2 d=0.851246 t=197
+Long 	Long	c=2 d=1.20101 t=197
+MATS 	MATS	c=1 d=0.687289 t=197
+Mocambique 	Mocambique	c=1 d=0.715338 t=197
+OCAM 	OCAM	c=4 d=2.93239 t=197
+RATO 	RATO	c=2 d=1.47708 t=197
+Vico 	Vico	c=1 d=0.423162 t=197
+azan 	azan	c=1 d=0.97531 t=197
+bead 	bead	c=1 d=0.891366 t=197
+buff 	buff	c=5 d=3.45846 t=197
+buhl 	buhl	c=1 d=0.451581 t=197
+bull 	bull	c=3 d=2.09059 t=197
+bumf 	bumf	c=4 d=1.70844 t=197
+bung 	bung	c=45 d=27.6711 t=197
+cole 	cole	c=3 d=2.06232 t=197
+daff 	daff	c=1 d=0.814647 t=197
+darkle 	darkle	c=1 d=0.396531 t=197
+docker 	docker	c=2 d=1.30147 t=197
+dodo 	dodo	c=2 d=1.7388 t=197
+doge 	doge	c=13 d=8.57437 t=197
+dole 	dole	c=1 d=0.527292 t=197
+dome 	dome	c=1 d=0.412714 t=197
+elan 	elan	c=8 d=6.88506 t=197
+fume 	fume	c=2 d=1.71902 t=197
+hove 	hove	c=23 d=14.8897 t=197
+inch 	inch	c=3 d=2.73746 t=197
+kerf 	kerf	c=2 d=1.89771 t=197
+kyle 	kyle	c=7 d=5.14327 t=197
+long 	long	c=1 d=0.640824 t=197
+made 	made	c=11 d=7.29874 t=197
+miff 	miff	c=1 d=0.640824 t=197
+name 	name	c=10 d=7.66975 t=197
+nide 	nide	c=1 d=0.606531 t=197
+private 	private	c=1 d=0.600496 t=197
+public 	public	c=3 d=2.98012 t=197
+pull 	pull	c=1 d=0.579842 t=197
+python 	python	c=1 d=0.418951 t=197
+return 	return	c=1 d=0.600496 t=197
+tame 	tame	c=1 d=0.70822 t=197
+test 	test	c=2 d=0.899848 t=197
+used 	used	c=1 d=0.628135 t=197
+void 	void	c=1 d=1 t=197
+warehouse 	warehouse	c=1 d=0.606531 t=197
+yule 	yule	c=1 d=0.472367 t=197

@@ -2,7 +2,7 @@ patch:
   show_notifications_when: appropriate # 状态通知，可设为全开（always）全关（never）  
 
   # 更换皮肤
-  style/color_scheme: macos_light
+  style/color_scheme: macos_light 
 
   # 皮肤主题 
   preset_color_schemes:
