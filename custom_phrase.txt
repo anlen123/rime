@@ -1,14 +1,50 @@
 # Rime table
 # coding: utf-8
-#@/db_name  custom_phrase.txt
-#@/db_type	tabledb
+#@/db_name custom_phrase.txt
+#@/db_type tabledb
+#
+# 用於【朙月拼音】系列輸入方案
+# 【小狼毫】0.9.21 以上
+#
+# 請將該文件以UTF-8編碼保存爲
+# Rime用戶文件夾/custom_phrase.txt
 #
 # 碼表各字段以製表符（Tab）分隔
 # 順序爲：文字、編碼、權重（決定重碼的次序、可選）
 #
-# 出現在這一行註釋之後的 # 不再當作註釋。
+# 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+#
 # no comment
-
-Rime 输入法引擎	rime	3
-Rime Input Method Engine	rime	2
-http://code.google.com/p/rimeime/	rime	1
+tinggofly@gmail.com	email	1
+136770748@qq.com	email	2
+刘华强	lhq	1
+周寅达	zyd	1
+梅国标	mgb	1
+沽清	guqy	1
+供应链	gsyylm	1
+王伟杰	wwj	1
+冯春	fc	1
+你说得对	nsdd	1
+永远滴神	yyds	1
+妈的	md	1
+妈的	made	1
+不能	bung	1
+专智	vrvi	1
+部分	buff	1
+自增	zizg	1
+正道的光	vgdkdegd	1
+或者	hove	1
+很少	hfuk	1
+审核	ughe	1
+审核	ufhe	1
+计夯	jh	1
+沛文	pw	1
+生成	sc	1
+部门	bumf	1
+入参	rucj	1
+扫码	skma	1
+主单	vudj	1
+供应链	gsyylm	1
+螺蛳粉	louiff	1
+黄金国	hdjngo	1
+神字辈	ufzibz	1
