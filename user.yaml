@@ -1,8 +1,10 @@
 var:
-  last_build_time: 1632216658
+  last_build_time: 1646891762
   option:
+    ascii_punct: false
+    full_shape: false
     simplification: true
   previously_selected_schema: double_pinyin_plus
   schema_access_time:
-    double_pinyin_plus: 1630845079
-    luna_pinyin: 1630673019
+    double_pinyin_plus: 1640332142
+    luna_pinyin: 1640327659
